@@ -1,0 +1,7 @@
+{
+  "name": "AppUASD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
